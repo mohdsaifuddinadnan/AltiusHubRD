@@ -1,0 +1,23 @@
+
+
+{
+    "invoice_number": "INV001",
+    "invoice_date": "2022-01-01",
+    "customer_name": "John Doe",
+    "customer_address": "123 Main St, Anytown, USA",
+    "items": [
+        {
+            "item_name": "Item 1",
+            "quantity": 2,
+            "unit_price": 10.99
+        },
+        {
+            "item_name": "Item 2",
+            "quantity": 1,
+            "unit_price": 5.99
+        }
+    ],
+    "sub_total": 27.97,
+    "tax": 2.79,
+    "total": 30.76
+}
